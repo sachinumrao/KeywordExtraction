@@ -1,0 +1,6 @@
+*.csv
+_DS*
+/Data/
+*.zip
+/.ipynb*
+
